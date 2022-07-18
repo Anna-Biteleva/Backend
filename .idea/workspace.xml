@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ceba16d4-f443-429a-8567-6dff8c292e37" name="Changes" comment="Lesson-4">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/lesson4/dto/AddToShL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/my.proprties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/my.proprties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson_3/MealPlanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson_3/MealPlanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/my.proprties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2A7rrCw10phvXzMImEQAFrI5qVO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mini-market_2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24558139" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager" selected="JUnit.Product_6_Test.createDeleteProductInDBTest">
+    <configuration name="Category_6_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="lesson_6.Category_6_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Category_6_Test.getCategoryPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="lesson_6.Category_6_Test" />
+      <option name="METHOD_NAME" value="getCategoryPositiveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product_6_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="lesson_6.Product_6_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product_6_Test.createDeleteProductInDBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="lesson_6.Product_6_Test" />
+      <option name="METHOD_NAME" value="createDeleteProductInDBTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product_6_Test.createProductInFoodCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson_6" />
+      <option name="MAIN_CLASS_NAME" value="lesson_6.Product_6_Test" />
+      <option name="METHOD_NAME" value="createProductInFoodCategoryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Product_6_Test.createDeleteProductInDBTest" />
+        <item itemvalue="JUnit.Product_6_Test.createProductInFoodCategoryTest" />
+        <item itemvalue="JUnit.Category_6_Test.getCategoryPositiveTest" />
+        <item itemvalue="JUnit.Category_6_Test" />
+        <item itemvalue="JUnit.Product_6_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceba16d4-f443-429a-8567-6dff8c292e37" name="Changes" comment="" />
+      <created>1654371669628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654371669628</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lesson_3">
+      <created>1655076252452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655076252452</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson_3">
+      <created>1655076561906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655076561906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson_3">
+      <created>1655076858358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655076858358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson_3">
+      <created>1655076871888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655076871888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson_3">
+      <created>1655077480287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655077480287</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson-3">
+      <created>1655077576083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655077576083</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson-3">
+      <created>1655632123392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655632123392</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson-4">
+      <created>1655632311670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655632311670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_3" />
+    <MESSAGE value="Lesson_4" />
+    <MESSAGE value="Lesson-3" />
+    <MESSAGE value="Lesson-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-4" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this" />
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Backend$Product_6_Test_createDeleteProductInDBTest.ic" NAME="Product_6_Test.createDeleteProductInDBTest Coverage Results" MODIFIED="1657898978685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lesson_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Backend$Category_6_Test_getCategoryPositiveTest.ic" NAME="Category_6_Test.getCategoryPositiveTest Coverage Results" MODIFIED="1658015901247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lesson_6.*</FILTER>
+    </SUITE>
+  </component>
+</project>

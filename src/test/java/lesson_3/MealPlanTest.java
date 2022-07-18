@@ -52,7 +52,7 @@ public class MealPlanTest extends AbstractTest {
     @Test
     void AddItem() {
 
-        String  id = given()
+        String id = given()
                 .queryParam("hash", "80ffcb42496cfffbff0e1b0ae8c7a9f52c28fc19")
                 .queryParam("apiKey", getApiKey())
                 .body("{\n"
@@ -77,7 +77,7 @@ public class MealPlanTest extends AbstractTest {
                 .jsonPath()
                 .get("id")
                 .toString();
-          System.out.println(id);
+        System.out.println(id);
 
 
          given()
